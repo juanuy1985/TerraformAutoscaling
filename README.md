@@ -14,3 +14,6 @@ Cómo proveedor de la nube utilizamos AWS.
 - Agregar al usuario IAM que se está utilizando la siguiente politica: AmazonEC2FullAccess
 - Generar el archivo key (archivo pem) 
 - En el archivo terraform.tfvars colocar las credenciales necesarias.
+
+## Exposición:
+https://youtu.be/vYH9HVwlz6E
