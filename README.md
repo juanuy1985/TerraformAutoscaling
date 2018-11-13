@@ -11,6 +11,6 @@ Terraform y autoscaling. Implementar un programa para evaluar el autoscaling en 
 Cómo proveedor de la nube utilizamos AWS.
 
 ## Configuraciones extras
-Agregar al usuario IAM que se está utilizando la siguiente politica: AmazonEC2FullAccess
-Generar el archivo key (archivo pem) 
-en el archivo terraform.tfvars colocar las credenciales necesarias.
+- Agregar al usuario IAM que se está utilizando la siguiente politica: AmazonEC2FullAccess
+- Generar el archivo key (archivo pem) 
+- En el archivo terraform.tfvars colocar las credenciales necesarias.
