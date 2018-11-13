@@ -2,7 +2,7 @@
 Tarea terraform y autoscaling para el curso de Cloud Computing de la maestría de CC - UNSA 
 
 ## Autores
-- Briggi Rivera
+- Briggi Rivera Guillén
 - Juan Vilca Castro
 
 ## Definición de la tarea
